@@ -1,12 +1,3 @@
-Got it, Pranav — here’s a **clean, concise, no-fluff `README.md`** that strictly follows the assignment requirement:
-
-> *"Include a README file with instructions on how to set up and run the application"*
-
-Everything is in a **single markdown block** — ready to paste and push.
-
----
-
-````markdown
 # Flask CRUD API using MongoDB (Dockerized)
 
 This is a Flask application that provides REST API endpoints to perform CRUD (Create, Read, Update, Delete) operations on a MongoDB database for a User resource. The application is containerized using Docker and fully tested using Postman.
@@ -73,14 +64,6 @@ To stop and remove containers:
 ```bash
 docker-compose down
 ```
-
-## Notes
-
-* All passwords are securely hashed using Werkzeug.
-* MongoDB is run inside Docker; no local installation is needed.
-
-```
-
 ---
 
 ✅ You can now copy this into `README.md`, commit, and push.
