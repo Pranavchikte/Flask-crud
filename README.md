@@ -64,9 +64,3 @@ To stop and remove containers:
 ```bash
 docker-compose down
 ```
----
-
-✅ You can now copy this into `README.md`, commit, and push.
-
-Let me know if you'd like a **Postman collection export section** or a **sample submission message** for email or portal.
-```
